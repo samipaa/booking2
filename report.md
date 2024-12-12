@@ -6,6 +6,7 @@ Functionality seems OK.
 This application not having a consent system should be fine, because the data that's collected is the bare necessary for the booking system. The data is not marketed or shared or used for analytics. It's only used for the functionality of the service, which is making resources and reservations and logging in. I think the legal basis for processing should be also told in the privacy note. If more personal info was used or the data was processed in a non-essential way, then consent would be necessary and the privacy note should be completely rewritten. The terms of service page would also need to be refreshed.
 
 I chose Spotify. Consent is required on Spotify, because of multiple things they do. Among other things, they send emails that are personalized and may contain marketing. GDPR requires consent for direct marketing. Collected data is used for marketing, advertising and analytics. The user experience is also personalized with the collected data. GDPR requires consent for this. They may also give out data to comply with legal obligations. Spotify allows users to choose what they consent to, which is also what GDPR wants. Users can change their consent preferences later. Pseudonymized data is given out to third parties due to contracts.
+
 ---
 ZAP by [Checkmarx](https://checkmarx.com/).
 
